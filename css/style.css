@@ -87,7 +87,7 @@ cursor:pointer
   height: 14px;
 }
 .body_img{
-  width: 100%;
+  max-width: 692px;
 }
 .registation_text {
   font-family: PT Sans;
@@ -457,7 +457,7 @@ cursor:pointer
   .single_person_bg {
     background: #000;}
     .body_img{
-     width: 100%;
+     max-width: 688px;
     }
   .threee_watchs{
      display: flex;
