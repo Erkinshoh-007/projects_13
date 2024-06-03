@@ -457,8 +457,14 @@ cursor:pointer
   .single_person_bg {
     background: #000;}
     .body_img{
-     max-width: 688px;
+     max-width: 760px;
     }
+    /* .man_text{
+      max-width: 760px;
+    }
+    .body_flower{
+      max-width: 760px;
+    } */
   .threee_watchs{
      display: flex;
      flex-direction: column;
